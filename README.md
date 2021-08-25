@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me : discord : shinzo#1337
                                   discord.gg/hawaii
+                                  discord.gg/edenfr
