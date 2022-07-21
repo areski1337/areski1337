@@ -1,4 +1,4 @@
-- 👋 Hi, I’m shinzo
-- 👀 I’m interested in cybersecurity, programming
+- 👋 Hi, I’m drm
+- 👀 I’m interested in cybersecurity, pentesting, programming 
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me : drm.#1337
